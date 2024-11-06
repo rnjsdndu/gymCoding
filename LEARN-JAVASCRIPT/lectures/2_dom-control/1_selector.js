@@ -48,5 +48,5 @@ console.log('helloItem: ' , helloItem);
 // helloItem.style.backgroundColor = 'red';
 
 helloItem.classList.add('dark', 'one') //classList에는 .빼기
-// helloItem.classList.add('light')
+// helloItem.classList.add('light')  
 // helloItem.classList.remove('light') remove = 지우기
